@@ -32,13 +32,11 @@ body{
     .work-tiles{
         display: flex;
         flex-wrap: wrap;
-
     }
     .work-tiles-item{
         flex: 30vw;
         margin-right: 1rem;
         margin-left: 1rem;
-
     }
 }
 /* break-point  large    laptop/desktop screen (1024-> px wide)  */
@@ -47,7 +45,6 @@ body{
         display: flex;
         flex-wrap: wrap;
         justify-content: center;
-
     }
     .work-tiles-item{
         flex: 15vw;
