@@ -1,0 +1,54 @@
+/* Revised Re-upload */
+/*  main css code for style that doesn't change */
+html{
+    box-sizing: border-box;
+}
+/*
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}*/
+body{
+    font-size: 1em;
+    color: rgb(66, 66, 66);
+    line-height: 1.5;
+    font-family: futura,Helvetica, sans-serif;
+    padding: 0;
+    margin: 0;
+}
+.portfolio-header{
+    background-color: rgb(238, 238, 238);
+    padding: 3rem;
+}
+.designername{
+    text-align: right;
+    color: #2b7685;
+}
+.work-tiles-item{
+    background-color:rgb(238, 238, 238);
+    padding: 3vw;
+}
+.recentwork{
+    text-align: center;
+    padding-right: 3rem;
+    padding-left: 3rem;
+    padding-bottom: 3rem;
+    padding-top: 0;
+}
+.responsive{
+    width: 100%;
+    height: auto;
+}
+.work-tiles-item{
+    padding: 3rem;
+}
+.work-tiles-item{
+    margin-bottom: 1rem;
+}
+.hero-image{
+    padding: 3rem;
+}
+.a{
+    cursor: pointer;
+}
