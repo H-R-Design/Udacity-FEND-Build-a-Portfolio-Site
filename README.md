@@ -1,5 +1,5 @@
 # Udacity-FEND-Build-a-Portfolio-Site
-<img src="https://github.com/H-R-Design/Udacity-FEND-Build-a-Portfolio-Site/blob/gh-pages/images/Portfolio%20Website.png" width="1000" height= "531"/>
+<img src="https://github.com/H-R-Design/Udacity-FEND-Build-a-Portfolio-Site/blob/gh-pages/images/Portfolio%20Website.png" width="1000" height= "535"/>
 This was my submitted project for the RMIT/Udacity Front End Development Nano Degree. The task was to solidify knowledge in HTML and CSS by creating a single page website. Flex box and breakpoints where used to create responsive content layout for different screen sizes (mobile, tablet and desktop). 
 
 ## Table of Contents
